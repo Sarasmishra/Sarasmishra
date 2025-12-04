@@ -72,6 +72,7 @@ I study best with music in the morning 🎧 and I’m improving my consistency d
 
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sarasmishra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ![Contributions Trophy](https://img.shields.io/badge/Trophy-300%2B%20Contributions-yellow?style=for-the-badge&logo=github)
 ![MERN Trophy](https://img.shields.io/badge/Trophy-MERN%20Developer-brightgreen?style=for-the-badge&logo=react)
 ![Consistency Trophy](https://img.shields.io/badge/Trophy-Consistency%20Master-blue?style=for-the-badge&logo=github)
