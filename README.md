@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Saras Mishra  
 **A passionate MERN Stack Developer & Problem Solver from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** for Collaboration, Projects, or Anything Else 😊😊  
+Email Me 👉 ✉️ **Sarasmishra8100@gmail.com** for Collaboration, Projects, or Anything Else 😊😊  
 
 ---
 
